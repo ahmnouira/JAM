@@ -24,7 +24,7 @@
     <img  hight="70%" title="JAM Website" src="images/cover.png">
 </p>
 
-<img width="40%" hight="200px;" align="right" src="images/jam.gif"></img>
+<img width="50%" hight="200px;" align="right" src="images/jam.gif"></img>
 
 ### Walkthrough
 
@@ -32,7 +32,7 @@
 - [x] Connect & Chat :envelope:
 - [x] Engage with musicians :couple:
 - [x] Explore fun people & fun JAMS :postbox:
-- [x] Express Yourself :thinking:	
+- [x] Express Yourself :thinking:
 
 ### How to get started using JAM ?
 
@@ -51,7 +51,7 @@
 
 ## Features
 
-> JAM let you **meet musicians**, **create Jams & Workshops**, **participte**, **express your opinoin**, & more...
+> JAM let you **Meet Musicians**, **Create Jams & Workshops**, **Participate**, **Express Your Opinion**, & more...
 
   <p align="center">
     <img src="images/1.png" width="23%" height="80%">
@@ -70,12 +70,11 @@
 ## Team
 
 <div align="center">
-    <table><tr><td align="center"><a href="https://twitter.com/AhmNouira"><img src="https://avatars1.githubusercontent.com/u/31603793?v=4" width="200px;" alt="Ahmed Nouira"/><br /><sub><b>Ahmed Nouira</b></sub></a><br /><a href="https://github.com/ahmnouira/" title="Code">💻</a><a href="#" title="Ideas">🤔</a></td><td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/7316432?v=4" width="200px;" alt="Ahmed Nouira"/><br /><sub><b>Aymen Fezai</b></sub></a><br /><a href="https://github.com/aymensmurf" title="Code">💻</a></td></tr>
+    <table><tr><td align="center"><a href="https://twitter.com/AhmNouira"><img src="https://avatars1.githubusercontent.com/u/31603793?v=4" width="150px;" alt="Ahmed Nouira"/><br /><sub><b>Ahmed Nouira</b></sub></a><br /><a href="https://github.com/ahmnouira/" title="Code">💻</a><a href="#" title="Ideas">🤔</a></td><td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/7316432?v=4" width="150px;" alt="Ahmed Nouira"/><br /><sub><b>Aymen Fezai</b></sub></a><br /><a href="https://github.com/aymensmurf" title="Code">💻</a></td></tr>
     </table>
-    <p align="center">Made with :sparkling_heart: by [InnovAnt.studio][innovant] team, from :tunisia:</p> 
+    Made with :sparkling_heart: by [InnovAnt.studio](https://innovant.studio/) team, from :tunisia:
     <p align="center">:copyright: 2020</p>
 </div>
 
 [ahmnouira]: http://github.com/ahmnouira
-[innovant]: https://innovant.studio/
 [link]: https://play.google.com/store/apps/details?id=com.innovant.jam
