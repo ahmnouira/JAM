@@ -24,7 +24,7 @@
     <img  hight="70%" title="JAM Website" src="images/cover.png">
 </p>
 
-<img width="50%" hight="200px;" align="right" src="images/jam.gif"></img>
+<img width="40%" hight="200px;" align="right" src="images/jam.gif"></img>
 
 ### Walkthrough
 
@@ -69,11 +69,11 @@
 
 ## Team
 
+Made with :sparkling_heart: by [InnovAnt.studio](https://innovant.studio/) team, from :tunisia: :copyright: 2020
+
 <div align="center">
     <table><tr><td align="center"><a href="https://twitter.com/AhmNouira"><img src="https://avatars1.githubusercontent.com/u/31603793?v=4" width="150px;" alt="Ahmed Nouira"/><br /><sub><b>Ahmed Nouira</b></sub></a><br /><a href="https://github.com/ahmnouira/" title="Code">💻</a><a href="#" title="Ideas">🤔</a></td><td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/7316432?v=4" width="150px;" alt="Ahmed Nouira"/><br /><sub><b>Aymen Fezai</b></sub></a><br /><a href="https://github.com/aymensmurf" title="Code">💻</a></td></tr>
     </table>
-    Made with :sparkling_heart: by [InnovAnt.studio](https://innovant.studio/) team, from :tunisia:
-    <p align="center">:copyright: 2020</p>
 </div>
 
 [ahmnouira]: http://github.com/ahmnouira
